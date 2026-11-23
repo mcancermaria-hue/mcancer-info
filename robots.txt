@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mcancermaria-hue.github.io/mcancer-info/sitemap.xml
